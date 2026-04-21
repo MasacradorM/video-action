@@ -1,0 +1,11 @@
+name: "Saludo JS"
+description: "Acción reutilizable en JavaScript"
+
+inputs:
+  nombre:
+    description: "Nombre a mostrar"
+    required: true
+
+runs:
+  using: "node20"
+  main: "index.js"

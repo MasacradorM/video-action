@@ -1,0 +1,9 @@
+{
+  "name": "github-js-action",
+  "version": "1.0.0",
+  "description": "Ejemplo de acción JavaScript reutilizable",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.10.0"
+  }
+}
